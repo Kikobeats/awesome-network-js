@@ -29,3 +29,4 @@
 * [chromecasts](https://github.com/mafintosh/chromecasts) – Query your local network for Chromecasts and have them play media.
 * [torrent-stream](https://github.com/mafintosh/torrent-stream) – The low level streaming torrent engine that peerflix uses.
 * [ip-packet](https://github.com/mafintosh/ip-packet) – Encode/decode raw ip packets.
+* [rtsp-stream](https://github.com/watson/rtsp-stream) - A transport agnostic RTSP serial multiplexer module for Node
