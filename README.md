@@ -4,28 +4,31 @@
 
 ## High level
 
-* [peervisionary](https://github.com/mafintosh/peervisionary) – Command line tool that combines airswarm and peervision to stream p2p content over your local network.
+* [peervisionary](https://github.com/mafintosh/peervisionary) – Stream p2p content over your local network.
 * [peerflix](https://github.com/mafintosh/peerflix) – Streaming torrent client for Node.js.
 * [peercast](https://github.com/mafintosh/peercast) – Torrent-stream + chromecast.
 * [castnow](https://github.com/xat/chromecast-player) – Commandline chromecast player.
 * [airpaste](https://github.com/mafintosh/airpaste) – 1-1 network pipe that auto discovers other peers using mdns.
-* [airscreen](https://github.com/mafintosh/airscreen) – Connect two screen sessions using airpaste.
-* [blecat](https://github.com/mafintosh/blecat) – 1-1 pipe over bluetooth low energy
+* [blecat](https://github.com/mafintosh/blecat) – 1-1 pipe over bluetooth low energy.
+
+## Streaming
+
+* [peervision](https://github.com/mafintosh/peervision) – Live p2p streaming protocol.
+* [webtorrent](https://github.com/feross/webtorrent) – BitTorrent over WebRTC.
 
 ## Auto discover (zeroconf)
 
 * [airswarm](https://github.com/mafintosh/airswarm) – Network swarm that automagically discovers other peers on the network using multicast dns.
 * [polo](https://github.com/mafintosh/polo) – Zero configuration service discovery module written completely in Javascript.
 * [multicast-dns](https://github.com/mafintosh/multicast-dns) – Low level multicast-dns implementation in pure javascript.
-
-## Streaming
-
-* [peervision](https://github.com/mafintosh/peervision) – Live p2p streaming protocol.
+* [mdns](https://github.com/agnat/node_mdns) – mdns/zeroconf/bonjour service discovery.
 
 ## Low Level
 
 * [network-address](https://github.com/mafintosh/network-address) – Get the local network address of your machine
-* [bittorrent-dht](https://github.com/feross/bittorrent-dht) – Simple, robust, BitTorrent DHT implementation.
+* [torrent-discovery](https://github.com/feross/torrent-discovery) – Discover BitTorrent and WebTorrent peers.
 * [torrent-stream](https://github.com/mafintosh/torrent-stream) – The low level streaming torrent engine that peerflix uses.
 * [ip-packet](https://github.com/mafintosh/ip-packet) – Encode/decode raw ip packets.
 * [rtsp-stream](https://github.com/watson/rtsp-stream) - A transport agnostic RTSP serial multiplexer module for Node.
+* [simple-peer](https://github.com/feross/simple-peer) – Simple WebRTC video/voice and data channels.
+* [castv2](https://github.com/thibauts/node-castv2) – An implementation of the Chromecast CASTV2 protocol.
