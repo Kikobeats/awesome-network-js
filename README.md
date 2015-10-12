@@ -6,7 +6,7 @@
 
 * [peerflix](https://github.com/mafintosh/peerflix) – Streaming torrent client for Node.js.
 * [peercast](https://github.com/mafintosh/peercast) – Torrent-stream + chromecast.
-* [chromecast-player](https://github.com/xat/chromecast-player) – simple chromecast player.
+* [castnow](https://github.com/xat/chromecast-player) – Commandline chromecast player.
 
 ## Auto discover
 
