@@ -30,6 +30,7 @@
 * [torrent-discovery](https://github.com/feross/torrent-discovery) – Discover BitTorrent and WebTorrent peers.
 * [torrent-stream](https://github.com/mafintosh/torrent-stream) – The low level streaming torrent engine that peerflix uses.
 * [ip-packet](https://github.com/mafintosh/ip-packet) – Encode/decode raw ip packets.
+* [udp-packet](https://github.com/substack/udp-packet) – Encode/decode raw udp packets.
 * [rtsp-stream](https://github.com/watson/rtsp-stream) - A transport agnostic RTSP serial multiplexer module for Node.
 * [simple-peer](https://github.com/feross/simple-peer) – Simple WebRTC video/voice and data channels.
 * [castv2](https://github.com/thibauts/node-castv2) – An implementation of the Chromecast CASTV2 protocol.
