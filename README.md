@@ -35,5 +35,5 @@
 * [rtsp-stream](https://github.com/watson/rtsp-stream) - A transport agnostic RTSP serial multiplexer module for Node.
 * [simple-peer](https://github.com/feross/simple-peer) – Simple WebRTC video/voice and data channels.
 * [castv2](https://github.com/thibauts/node-castv2) – An implementation of the Chromecast CASTV2 protocol.
-* [ipfs](https://github.com/ipfs/node-ipfs-api) – [IPFS](https://ipfs.io) protocol node/browser API.
+* [ipfs](https://github.com/ipfs/js-ipfs-api) – [IPFS](https://ipfs.io) protocol node/browser API.
 * [utp](https://github.com/mafintosh/utp) – uTorrent Transport Protocol.
