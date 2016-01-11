@@ -39,6 +39,8 @@
 * [k-bucket](https://github.com/tristanls/k-bucket) – Kademlia DHT K-bucket implementation as a binary tree.
 * [bittorrent-dht](https://github.com/feross/bittorrent-dht) – BitTorrent DHT protocol implementation.
 * [bittorrent-protocol](https://github.com/feross/bittorrent-protocol) – BitTorrent peer wire protocol implementation.
+* [bittorrent-swarm](https://github.com/feross/bittorrent-swarm) – BitTorrent "swarm" implementation.
+* [bittorrent-tracker](https://github.com/feross/bittorrent-tracker) – BitTorrent tracker (client & server) implementation
 * [bonjour](https://github.com/watson/bonjour) – A Bonjour/Zeroconf protocol implementation.
 * [rtsp-server](https://github.com/watson/rtsp-server) – A low level module for creating RTSP servers.
 
@@ -52,8 +54,8 @@
 * [simple-peer](https://github.com/feross/simple-peer) – Simple WebRTC video/voice and data channels.
 * [simple-websocket](https://github.com/feross/simple-websocket) – Simple, EventEmitter API for WebSockets.
 * [network-address](https://github.com/mafintosh/network-address) – Get the local network address of your machine.
-* [torrent-discovery](https://github.com/feross/torrent-discovery) – Discover BitTorrent and WebTorrent peers using [DHT](https://github.com/feross/bittorrent-dht) and [swarm](https://github.com/feross/bittorrent-swarm).
 * [torrent-stream](https://github.com/mafintosh/torrent-stream) – The low level streaming torrent engine that peerflix uses.
+* [torrent-discovery](https://github.com/feross/torrent-discovery) – Discover BitTorrent and WebTorrent peers.
 * [ip-packet](https://github.com/mafintosh/ip-packet) – Encode/decode raw ip packets.
 * [udp-packet](https://github.com/substack/udp-packet) – Encode/decode raw udp packets.
 * [network-simulator](https://github.com/substack/network-simulator) – Simulate a low-level computer network.
