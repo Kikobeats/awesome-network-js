@@ -11,6 +11,7 @@
 * [airpaste](https://github.com/mafintosh/airpaste) – 1-1 network pipe that auto discovers other peers using mdns.
 * [blecat](https://github.com/mafintosh/blecat) – 1-1 pipe over bluetooth low energy.
 * [websocketd](https://github.com/joewalnes/websocketd) – Turn any program that uses stdin/stdout into a WebSocket server.
+* [deejay](https://github.com/mafintosh/deejay) – Music player that broadcasts to everyone on the same network.
 
 ## Streaming
 
