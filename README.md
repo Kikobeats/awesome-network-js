@@ -37,3 +37,4 @@
 * [castv2](https://github.com/thibauts/node-castv2) – An implementation of the Chromecast CASTV2 protocol.
 * [ipfs](https://github.com/ipfs/js-ipfs-api) – [IPFS](https://ipfs.io) protocol node/browser API.
 * [utp](https://github.com/mafintosh/utp) – uTorrent Transport Protocol.
+* [hash-to-port](https://github.com/mafintosh/hash-to-port) – Hash a value to a valid port.
