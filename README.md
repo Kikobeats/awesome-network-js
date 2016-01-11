@@ -48,7 +48,7 @@
 
 ## Modules
 
-> do one thing well.
+> Do one thing well.
 
 * [airplay-server](https://github.com/watson/airplay-server) – A low level AirPlay server.
 * [castnow](https://github.com/xat/chromecast-player) – simple chromecast player.
