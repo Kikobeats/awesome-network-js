@@ -4,8 +4,10 @@
 
 ## High level
 
-> Based in a CLI interface.
+> Based, at least, in a CLI interface.
 
+* [webtorrent](https://github.com/feross/webtorrent) – BitTorrent over WebRTC.
+* [instant.io](https://github.com/feross/instant.io) – Streaming file transfer over WebTorrent.
 * [screencat](https://github.com/maxogden/screencat) – WebRTC screensharing app.
 * [peervisionary](https://github.com/mafintosh/peervisionary) – Stream p2p content over your local network.
 * [peerflix](https://github.com/mafintosh/peerflix) – Streaming torrent client.
@@ -49,7 +51,6 @@
 > do one thing well.
 
 * [airplay-server](https://github.com/watson/airplay-server) – A low level AirPlay server.
-* [webtorrent](https://github.com/feross/webtorrent) – BitTorrent over WebRTC.
 * [castnow](https://github.com/xat/chromecast-player) – simple chromecast player.
 * [simple-peer](https://github.com/feross/simple-peer) – Simple WebRTC video/voice and data channels.
 * [simple-websocket](https://github.com/feross/simple-websocket) – Simple, EventEmitter API for WebSockets.
