@@ -64,3 +64,4 @@
 * [hash-to-port](https://github.com/mafintosh/hash-to-port) – Hash a value to a valid port.
 * [magnet-uri](https://github.com/feross/magnet-uri) – Parse a magnet URI and return an object of keys/values.
 * [geocode-wifi](https://github.com/watson/geocode-wifi) – Get yours latitude/longitude based on your wifi access point.
+* [PeerJS](http://peerjs.com/) – Client and sever implementation for WebRTC peer-to-peer data, video, and audio calls.
