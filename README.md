@@ -45,6 +45,7 @@
 * [bittorrent-tracker](https://github.com/feross/bittorrent-tracker) – BitTorrent tracker (client & server) implementation
 * [bonjour](https://github.com/watson/bonjour) – A Bonjour/Zeroconf protocol implementation.
 * [rtsp-server](https://github.com/watson/rtsp-server) – A low level module for creating RTSP servers.
+* [hypercore](https://github.com/mafintosh/hypercore) – A p2p network for distributing and replicating static feeds of binary data.
 
 ## Modules
 
