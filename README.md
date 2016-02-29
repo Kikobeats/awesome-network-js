@@ -67,3 +67,4 @@
 * [magnet-uri](https://github.com/feross/magnet-uri) – Parse a magnet URI and return an object of keys/values.
 * [geocode-wifi](https://github.com/watson/geocode-wifi) – Get yours latitude/longitude based on your wifi access point.
 * [etcdjs](https://github.com/mafintosh/etcdjs) – Low level etcd v2 client written in Javascript with failover support.
+* [discovery-swarm](https://github.com/mafintosh/discovery-swarm) – A network swarm that uses [discovery-channel](https://github.com/maxogden/discovery-channel) to find peers. Also check [webrtc-swarm](https://github.com/mafintosh/webrtc-swarm).
