@@ -58,6 +58,7 @@
 * [torrent-stream](https://github.com/mafintosh/torrent-stream) – The low level streaming torrent engine that peerflix uses.
 * [torrent-discovery](https://github.com/feross/torrent-discovery) – Discover BitTorrent and WebTorrent peers.
 * [ip-packet](https://github.com/mafintosh/ip-packet) – Encode/decode raw ip packets.
+* [dns-packet](https://github.com/mafintosh/dns-packet) – Abstract-encoding compliant module for encoding / decoding DNS packets. Also see [dns-socket](https://github.com/mafintosh/dns-socket).
 * [udp-packet](https://github.com/substack/udp-packet) – Encode/decode raw udp packets.
 * [network-simulator](https://github.com/substack/network-simulator) – Simulate a low-level computer network.
 * [rtsp-stream](https://github.com/watson/rtsp-stream) - A transport agnostic RTSP serial multiplexer module for Node.
