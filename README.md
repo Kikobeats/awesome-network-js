@@ -36,7 +36,7 @@
 * [mdns](https://github.com/agnat/node_mdns) – mdns/zeroconf/bonjour service discovery.
 * [ipfs](https://github.com/ipfs/js-ipfs-api) – The InterPlanetary File System, a new peer-to-peer hypermedia protocol.
 * [castv2](https://github.com/thibauts/node-castv2) – An implementation of the Chromecast CASTV2 protocol.
-* [utp](https://github.com/mafintosh/utp) – micro transport protocol, a network protocol similar to tcp that runs on top of udp.
+* [utp-native](https://github.com/mafintosh/utp-native) – micro transport protocol, a network protocol similar to tcp that runs on top of udp.
 * [k-rpc](https://github.com/mafintosh/k-rpc) – Implementation of the k-rpc protocol used the BitTorrent DHT. Also see [k-rpc-socket](https://github.com/mafintosh/k-rpc-socket).
 * [k-bucket](https://github.com/tristanls/k-bucket) – Kademlia DHT K-bucket implementation as a binary tree.
 * [bittorrent-dht](https://github.com/feross/bittorrent-dht) – BitTorrent DHT protocol implementation.
