@@ -10,6 +10,7 @@
 * [blecat](https://github.com/mafintosh/blecat) – 1-1 pipe over bluetooth low energy.
 * [deejay](https://github.com/mafintosh/deejay) – Music player that broadcasts to everyone on the same network.
 * [dhtkv](https://github.com/maxogden/dhtkv) – CLI for storing arbitrary key/value data in the bittorrent mainline DHT.
+* [hyperpipe](https://github.com/mafintosh/hyperpipe) – Distributed input/output pipe.
 * [instant.io](https://github.com/feross/instant.io) – Streaming file transfer over WebTorrent.
 * [ipp-printer](https://github.com/watson/ipp-printer) – Create a printer on your network.
 * [peercast](https://github.com/mafintosh/peercast) – Like peerflix but for Chromecast.
