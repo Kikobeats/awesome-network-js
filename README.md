@@ -37,8 +37,8 @@
 * [bittorrent-tracker](https://github.com/feross/bittorrent-tracker) – BitTorrent tracker (client & server) implementation
 * [bonjour](https://github.com/watson/bonjour) – A Bonjour/Zeroconf protocol implementation.
 * [castv2](https://github.com/thibauts/node-castv2) – An implementation of the Chromecast CASTV2 protocol.
-* [dns-discovery](https://github.com/mafintosh/dns-discovery) – Discovery peers in a distributed system using regular dns and multicast dns.
 * [dht-rpc](https://github.com/mafintosh/dht-rpc) – Make RPC calls over a [Kademlia](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf) based DHT.
+* [dns-discovery](https://github.com/mafintosh/dns-discovery) – Discovery peers in a distributed system using regular dns and multicast dns.
 * [hypercore](https://github.com/mafintosh/hypercore) – A p2p network for distributing and replicating static feeds of binary data.
 * [ipfs](https://github.com/ipfs/js-ipfs-api) – The InterPlanetary File System, a new peer-to-peer hypermedia protocol.
 * [k-bucket](https://github.com/tristanls/k-bucket) – Kademlia DHT K-bucket implementation as a binary tree.
