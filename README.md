@@ -13,7 +13,7 @@
 * [gun](https://github.com/amark/gun) – A realtime, decentralized, offline-first, graph database engine.
 * [hyperpipe](https://github.com/mafintosh/hyperpipe) – Distributed input/output pipe.
 * [hypervision](https://github.com/mafintosh/hypervision) – P2P Television.
-* [instant.io](https://github.com/feross/instant.io) – Streaming file transfer over WebTorrent.
+* [instant.io](https://github.com/webtorrent/instant.io) – Streaming file transfer over WebTorrent.
 * [ipp-printer](https://github.com/watson/ipp-printer) – Create a printer on your network.
 * [peercast](https://github.com/mafintosh/peercast) – Like peerflix but for Chromecast.
 * [peerflix](https://github.com/mafintosh/peerflix) – Streaming torrent client.
@@ -24,7 +24,7 @@
 * [torrent-mount](https://github.com/mafintosh/torrent-mount) – Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse.
 * [webcat](https://github.com/mafintosh/webcat) – pipe across the web using WebRTC.
 * [websocketd](https://github.com/joewalnes/websocketd) – Turn any program that uses stdin/stdout into a WebSocket server.
-* [webtorrent](https://github.com/feross/webtorrent) – BitTorrent over WebRTC.
+* [webtorrent](https://github.com/webtorrent/webtorrent) – BitTorrent over WebRTC.
 * [wifi-triangulate](https://github.com/watson/wifi-triangulate) – Finds your current position on planet earth using the wifi access point.
 
 ## Modules
@@ -40,13 +40,13 @@
 * [hash-to-port](https://github.com/mafintosh/hash-to-port) – Hash a value to a valid port.
 * [hyperdb](https://github.com/mafintosh/hyperdb) – Distributed scalable database.
 * [ip-packet](https://github.com/mafintosh/ip-packet) – Encode/decode raw ip packets.
-* [magnet-uri](https://github.com/feross/magnet-uri) – Parse a magnet URI and return an object of keys/values.
+* [magnet-uri](https://github.com/webtorrent/magnet-uri) – Parse a magnet URI and return an object of keys/values.
 * [network-address](https://github.com/mafintosh/network-address) – Get the local network address of your machine.
 * [network-simulator](https://github.com/substack/network-simulator) – Simulate a low-level computer network.
 * [rtsp-stream](https://github.com/watson/rtsp-stream) - A transport agnostic RTSP serial multiplexer module for Node.
 * [simple-peer](https://github.com/feross/simple-peer) – Simple WebRTC video/voice and data channels.
 * [simple-websocket](https://github.com/feross/simple-websocket) – Simple, EventEmitter API for WebSockets.
-* [torrent-discovery](https://github.com/feross/torrent-discovery) – Discover BitTorrent and WebTorrent peers.
+* [torrent-discovery](https://github.com/webtorrent/torrent-discovery) – Discover BitTorrent and WebTorrent peers.
 * [torrent-stream](https://github.com/mafintosh/torrent-stream) – The low level streaming torrent engine that peerflix uses.
 * [udp-packet](https://github.com/substack/udp-packet) – Encode/decode raw udp packets.
 
@@ -55,10 +55,10 @@
 > Implementation of protocols specs in pure javascript.
 
 * [airswarm](https://github.com/mafintosh/airswarm) – Network swarm that automagically discovers other peers on the network using multicast dns.
-* [bittorrent-dht](https://github.com/feross/bittorrent-dht) – BitTorrent DHT protocol implementation.
-* [bittorrent-protocol](https://github.com/feross/bittorrent-protocol) – BitTorrent peer wire protocol implementation.
+* [bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) – BitTorrent DHT protocol implementation.
+* [bittorrent-protocol](https://github.com/webtorrent/bittorrent-protocol) – BitTorrent peer wire protocol implementation.
 * [bittorrent-swarm](https://github.com/feross/bittorrent-swarm) – BitTorrent "swarm" implementation.
-* [bittorrent-tracker](https://github.com/feross/bittorrent-tracker) – BitTorrent tracker (client & server) implementation
+* [bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) – BitTorrent tracker (client & server) implementation
 * [bonjour](https://github.com/watson/bonjour) – A Bonjour/Zeroconf protocol implementation.
 * [castv2](https://github.com/thibauts/node-castv2) – An implementation of the Chromecast CASTV2 protocol.
 * [dht-rpc](https://github.com/mafintosh/dht-rpc) – Make RPC calls over a [Kademlia](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf) based DHT.
