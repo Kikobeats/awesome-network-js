@@ -12,6 +12,7 @@
 * [dhtkv](https://github.com/maxogden/dhtkv) – CLI for storing arbitrary key/value data in the bittorrent mainline DHT.
 * [gun](https://github.com/amark/gun) – A realtime, decentralized, offline-first, graph database engine.
 * [hyperpipe](https://github.com/mafintosh/hyperpipe) – Distributed input/output pipe.
+* [hypervision](https://github.com/mafintosh/hypervision) – P2P Television.
 * [instant.io](https://github.com/feross/instant.io) – Streaming file transfer over WebTorrent.
 * [ipp-printer](https://github.com/watson/ipp-printer) – Create a printer on your network.
 * [peercast](https://github.com/mafintosh/peercast) – Like peerflix but for Chromecast.
