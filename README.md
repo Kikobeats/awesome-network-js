@@ -27,6 +27,29 @@
 * [webtorrent](https://github.com/feross/webtorrent) – BitTorrent over WebRTC.
 * [wifi-triangulate](https://github.com/watson/wifi-triangulate) – Finds your current position on planet earth using the wifi access point.
 
+## Modules
+
+> Do one thing well.
+
+* [airplay-server](https://github.com/watson/airplay-server) – A low level AirPlay server.
+* [castnow](https://github.com/xat/chromecast-player) – simple chromecast player.
+* [discovery-swarm](https://github.com/mafintosh/discovery-swarm) – A network swarm that uses [discovery-channel](https://github.com/maxogden/discovery-channel) to find peers. Also check [webrtc-swarm](https://github.com/mafintosh/webrtc-swarm).
+* [dns-packet](https://github.com/mafintosh/dns-packet) – Abstract-encoding compliant module for encoding / decoding DNS packets. Also see [dns-socket](https://github.com/mafintosh/dns-socket).
+* [etcdjs](https://github.com/mafintosh/etcdjs) – Low level etcd v2 client written in Javascript with failover support.
+* [geocode-wifi](https://github.com/watson/geocode-wifi) – Get yours latitude/longitude based on your wifi access point.
+* [hash-to-port](https://github.com/mafintosh/hash-to-port) – Hash a value to a valid port.
+* [hyperdb](https://github.com/mafintosh/hyperdb) – Distributed scalable database.
+* [ip-packet](https://github.com/mafintosh/ip-packet) – Encode/decode raw ip packets.
+* [magnet-uri](https://github.com/feross/magnet-uri) – Parse a magnet URI and return an object of keys/values.
+* [network-address](https://github.com/mafintosh/network-address) – Get the local network address of your machine.
+* [network-simulator](https://github.com/substack/network-simulator) – Simulate a low-level computer network.
+* [rtsp-stream](https://github.com/watson/rtsp-stream) - A transport agnostic RTSP serial multiplexer module for Node.
+* [simple-peer](https://github.com/feross/simple-peer) – Simple WebRTC video/voice and data channels.
+* [simple-websocket](https://github.com/feross/simple-websocket) – Simple, EventEmitter API for WebSockets.
+* [torrent-discovery](https://github.com/feross/torrent-discovery) – Discover BitTorrent and WebTorrent peers.
+* [torrent-stream](https://github.com/mafintosh/torrent-stream) – The low level streaming torrent engine that peerflix uses.
+* [udp-packet](https://github.com/substack/udp-packet) – Encode/decode raw udp packets.
+
 ## Protocols
 
 > Implementation of protocols specs in pure javascript.
@@ -50,25 +73,3 @@
 * [polo](https://github.com/mafintosh/polo) – A zero configuration service discovery module.
 * [rtsp-server](https://github.com/watson/rtsp-server) – A low level module for creating RTSP servers.
 * [utp-native](https://github.com/mafintosh/utp-native) – micro transport protocol, a network protocol similar to tcp that runs on top of udp.
-
-## Modules
-
-> Do one thing well.
-
-* [airplay-server](https://github.com/watson/airplay-server) – A low level AirPlay server.
-* [castnow](https://github.com/xat/chromecast-player) – simple chromecast player.
-* [discovery-swarm](https://github.com/mafintosh/discovery-swarm) – A network swarm that uses [discovery-channel](https://github.com/maxogden/discovery-channel) to find peers. Also check [webrtc-swarm](https://github.com/mafintosh/webrtc-swarm).
-* [dns-packet](https://github.com/mafintosh/dns-packet) – Abstract-encoding compliant module for encoding / decoding DNS packets. Also see [dns-socket](https://github.com/mafintosh/dns-socket).
-* [etcdjs](https://github.com/mafintosh/etcdjs) – Low level etcd v2 client written in Javascript with failover support.
-* [geocode-wifi](https://github.com/watson/geocode-wifi) – Get yours latitude/longitude based on your wifi access point.
-* [hash-to-port](https://github.com/mafintosh/hash-to-port) – Hash a value to a valid port.
-* [ip-packet](https://github.com/mafintosh/ip-packet) – Encode/decode raw ip packets.
-* [magnet-uri](https://github.com/feross/magnet-uri) – Parse a magnet URI and return an object of keys/values.
-* [network-address](https://github.com/mafintosh/network-address) – Get the local network address of your machine.
-* [network-simulator](https://github.com/substack/network-simulator) – Simulate a low-level computer network.
-* [rtsp-stream](https://github.com/watson/rtsp-stream) - A transport agnostic RTSP serial multiplexer module for Node.
-* [simple-peer](https://github.com/feross/simple-peer) – Simple WebRTC video/voice and data channels.
-* [simple-websocket](https://github.com/feross/simple-websocket) – Simple, EventEmitter API for WebSockets.
-* [torrent-discovery](https://github.com/feross/torrent-discovery) – Discover BitTorrent and WebTorrent peers.
-* [torrent-stream](https://github.com/mafintosh/torrent-stream) – The low level streaming torrent engine that peerflix uses.
-* [udp-packet](https://github.com/substack/udp-packet) – Encode/decode raw udp packets.
