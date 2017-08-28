@@ -57,7 +57,6 @@
 * [airswarm](https://github.com/mafintosh/airswarm) – Network swarm that automagically discovers other peers on the network using multicast dns.
 * [bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) – BitTorrent DHT protocol implementation.
 * [bittorrent-protocol](https://github.com/webtorrent/bittorrent-protocol) – BitTorrent peer wire protocol implementation.
-* [bittorrent-swarm](https://github.com/feross/bittorrent-swarm) – BitTorrent "swarm" implementation.
 * [bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) – BitTorrent tracker (client & server) implementation
 * [bonjour](https://github.com/watson/bonjour) – A Bonjour/Zeroconf protocol implementation.
 * [castv2](https://github.com/thibauts/node-castv2) – An implementation of the Chromecast CASTV2 protocol.
