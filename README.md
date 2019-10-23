@@ -26,6 +26,7 @@
 * [websocketd](https://github.com/joewalnes/websocketd) – Turn any program that uses stdin/stdout into a WebSocket server.
 * [webtorrent](https://github.com/webtorrent/webtorrent) – BitTorrent over WebRTC.
 * [wifi-triangulate](https://github.com/watson/wifi-triangulate) – Finds your current position on planet earth using the wifi access point.
+* [tgrid](https://github.com/samchon/tgrid) - TypeScript Grid Computing Framework using RFC (Remote Function Call).
 
 ## Modules
 
