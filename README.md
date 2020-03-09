@@ -49,6 +49,7 @@
 * [torrent-discovery](https://github.com/webtorrent/torrent-discovery) – Discover BitTorrent and WebTorrent peers.
 * [torrent-stream](https://github.com/mafintosh/torrent-stream) – The low level streaming torrent engine that peerflix uses.
 * [udp-packet](https://github.com/substack/udp-packet) – Encode/decode raw udp packets.
+* [rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript.
 
 ## Protocols
 
