@@ -41,6 +41,7 @@
 * [hyperdb](https://github.com/mafintosh/hyperdb) – Distributed scalable database.
 * [ip-packet](https://github.com/mafintosh/ip-packet) – Encode/decode raw ip packets.
 * [magnet-uri](https://github.com/webtorrent/magnet-uri) – Parse a magnet URI and return an object of keys/values.
+* [mutex-server](https://github.com/samchon/mutex-server) - Critical section controllers, like mutex and semaphore, in the network level.
 * [network-address](https://github.com/mafintosh/network-address) – Get the local network address of your machine.
 * [network-simulator](https://github.com/substack/network-simulator) – Simulate a low-level computer network.
 * [rtsp-stream](https://github.com/watson/rtsp-stream) - A transport agnostic RTSP serial multiplexer module for Node.
