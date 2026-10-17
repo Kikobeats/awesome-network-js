@@ -32,7 +32,7 @@
 > Do one thing well.
 
 * [airplay-server](https://github.com/watson/airplay-server) – A low level AirPlay server.
-* [castnow](https://github.com/xat/chromecast-player) – simple chromecast player.
+* [chromecast-player](https://github.com/xat/chromecast-player) – simple chromecast player.
 * [discovery-swarm](https://github.com/mafintosh/discovery-swarm) – A network swarm that uses [discovery-channel](https://github.com/maxogden/discovery-channel) to find peers. Also check [webrtc-swarm](https://github.com/mafintosh/webrtc-swarm).
 * [dns-packet](https://github.com/mafintosh/dns-packet) – Abstract-encoding compliant module for encoding / decoding DNS packets. Also see [dns-socket](https://github.com/mafintosh/dns-socket).
 * [etcdjs](https://github.com/mafintosh/etcdjs) – Low level etcd v2 client written in Javascript with failover support.
